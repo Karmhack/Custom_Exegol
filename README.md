@@ -1,1 +1,1 @@
-# Custom_Exegol
+- exegol_install.sh : Exegol installation script for Linux (tested on Arch, Fedora 41, Ubuntu 24.04.2, Debian 12)
